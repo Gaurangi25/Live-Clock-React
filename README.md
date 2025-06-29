@@ -6,8 +6,10 @@ A simple digital clock built using ReactJS. It displays the current time and upd
 - Updates every second
 - Built using React functional components and Hooks
 
-  🛠️ Installation
-Clone this repository : git clone https://github.com/your-username/Live-Clock-React.git
-                        cd Live-Clock-React
-                        npm install
-                        npm start
+🛠️ Installation
+git clone https://github.com/your-username/Live-Clock-React.git
+cd Live-Clock-React
+npm install
+npm install react@18 react-dom@18
+npm start
+
